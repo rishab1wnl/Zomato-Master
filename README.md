@@ -1,2 +1,1 @@
-# zomato-proj-master-shapeai
-s
+> *This project was developed with ❤️ and ☕.*
